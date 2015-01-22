@@ -28,8 +28,8 @@ ga:
   url: dutwfk.github.io/
 
 # disqus 设置
-# disqus:
-  # shortname: suyan-zh
+disqus:
+  shortname: dutwfk
 
 # 主题设置，自动激活某个标签
 active: 技术
