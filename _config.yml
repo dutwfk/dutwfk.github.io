@@ -19,8 +19,8 @@ description: Kris的博客
 # gavatar头像及Favicon
 # gavatar:
 # favicon:
-gavatar: http://7u2ho6.com1.z0.glb.clouddn.com/gavatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
+gavatar: http://b-avatar.qiniudn.com/avatar-200x200.png
+favicon: http://b-avatar.qiniudn.com/favicon.ico
 
 # google analytics 设置
 ga:
