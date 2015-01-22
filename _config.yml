@@ -1,0 +1,48 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author:
+  name: Kris
+  email: dutwfk@gmail.com
+  weibo: http://weibo.com/u/3706884097
+  github: http://github.com/dutwfk
+
+# 站点信息
+title: KrisのBlog
+description: Kris的博客
+
+# gavatar头像及Favicon
+# gavatar:
+# favicon:
+gavatar: http://7u2ho6.com1.z0.glb.clouddn.com/gavatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-58838391-1
+  url: dutwfk.github.io/
+
+# disqus 设置
+# disqus:
+  # shortname: suyan-zh
+
+# 主题设置，自动激活某个标签
+active: 技术
+
+# 首页除了最新文章外显示分类
+cates:
+  - Python
+  - OpenStack
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
+  content: 目录
