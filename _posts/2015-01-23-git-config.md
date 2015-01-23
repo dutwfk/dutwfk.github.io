@@ -1,8 +1,8 @@
 ---
 layout: post
-title: [配置].gitconfig
-category: Config
-keyword: git,config
+title: .gitconfig
+category: 配置
+keyword: git,配置
 ---
 ## Git 配置文件
 
@@ -149,6 +149,6 @@ keyword: git,config
     autocorrect = 1
 
 [user]
-     name = 
-     email = 
+     name =
+     email =
 ```
