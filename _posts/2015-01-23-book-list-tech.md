@@ -31,7 +31,7 @@ books:
       description:
     - title: 编写高质量代码：改善Python程序的91个建议
       status: 已读
-      author: 张颖 / 赖勇浩 
+      author: 张颖/赖勇浩 
       publisher: 机械工业出版社
       language: 中文
       link: http://book.douban.com/subject/25910544/
