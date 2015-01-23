@@ -2,6 +2,7 @@
 layout: book
 title: 阅读书单-文学
 category: 读书
+tags: book 
 keywords: 阅读,书单,文学
 books:
     - title: 解忧杂货铺

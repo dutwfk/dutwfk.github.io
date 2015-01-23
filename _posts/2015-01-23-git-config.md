@@ -2,6 +2,7 @@
 layout: post
 title: .gitconfig
 category: 配置
+tags: config 
 keyword: git,配置
 ---
 ## Git 配置文件

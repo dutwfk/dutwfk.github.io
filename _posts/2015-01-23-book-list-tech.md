@@ -2,7 +2,8 @@
 layout: book
 title: 阅读书单-技术
 category: 读书
-keywords: 阅读,书单,2015
+tags: book 
+keywords: book,2015
 books:
     - title: MongoDB权威指南
       status:
