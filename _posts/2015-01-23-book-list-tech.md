@@ -21,7 +21,7 @@ books:
       link: http://book.douban.com/subject/3112503/
       cover:http://img5.douban.com/lpic/s3140466.jpg
       description:
-    - title: 决战Nginx：系统卷 高性能Web服务器详解与运维
+    - title: 决战Nginx-系统卷
       status:
       author: 陶利军 
       publisher: 清华大学出版社
@@ -29,7 +29,7 @@ books:
       link: http://book.douban.com/subject/10746087/
       cover: http://img5.douban.com/lpic/s27298828.jpg
       description:
-    - title: 编写高质量代码：改善Python程序的91个建议
+    - title: 编写高质量代码-改善Python程序的91个建议
       status: 已读
       author: 张颖/赖勇浩 
       publisher: 机械工业出版社
