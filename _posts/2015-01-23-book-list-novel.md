@@ -1,6 +1,6 @@
 ---
 layout: book
-title: 阅读书单-文学
+title: 阅读书单-文
 category: 读书
 tags: book 
 keywords: 阅读,书单,文学
