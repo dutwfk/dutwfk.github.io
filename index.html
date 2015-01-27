@@ -19,7 +19,9 @@ title: 首页
   {% for cate in site.cates %}
     <div class="col-md-12">
       <div class="panel panel-primary">
-        <div class="panel-heading">{{ cate }}</div>
+        <div class="panel-heading">
+          {{ cate }}
+        </div>
         {% for tag in site.tags %} 
           {% if tag[0] == cate %}
             {% for post in tag[1] %}
@@ -29,8 +31,10 @@ title: 首页
               </a>
             {% endfor %}
           {% endif %}
-        {% endfor %}
+        {% endfor %} 
+        {% if cate == "看过的电影·听过的音乐" %}{% include douban.html %}{% endif %}
       </div>
+
     </div>
   {% endfor %}
 </div>
