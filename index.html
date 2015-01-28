@@ -22,7 +22,7 @@ title: 首页
         <div class="panel-heading">
           {{ cate }}
         </div>
-        {% for tag in site.tags %} 
+        {% for tag in site.tags %}
           {% if tag[0] == cate %}
             {% for post in tag[1] %}
               <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
@@ -31,11 +31,10 @@ title: 首页
               </a>
             {% endfor %}
           {% endif %}
-        {% endfor %} 
-        {% if cate == "看过的电影·听过的音乐" %}{% include douban.html %}{% endif %}
+        {% endfor %}
       </div>
 
     </div>
   {% endfor %}
 </div>
- 
+
