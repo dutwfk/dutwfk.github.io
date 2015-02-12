@@ -2,7 +2,7 @@
 layout: post
 title: oh-my-zsh agnoster主题 特殊字符显示异常
 category: 配置
-tags:  oh-my-zsh,agnoster,config
+tags:  [oh-my-zsh,agnoster,config]
 keywords: oh-my-zsh,agnoster,特殊字符显示异常
 
 ---
