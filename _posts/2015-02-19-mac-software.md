@@ -13,6 +13,7 @@ description:
 - **pycharm**	Python的干活利器
 - **SublimeText3**	优雅的万能编辑器
 - **Xcode**		iOS IDE
+- **Android Studio** Android IDE
 - **WebStorm**	前端 IDE
 
 ## 效率工具
