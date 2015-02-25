@@ -15,6 +15,8 @@ author:
 # 站点信息
 title: KrisのBlog
 description: Kris的博客
+url: http://dutwfk.github.io
+rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: http://7u2n3n.com1.z0.glb.clouddn.com/avatar-walk.jpg?imageView2/1/w/60/h/60
