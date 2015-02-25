@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: post
 title: 阅读书单-技术
 category: 读书
 keywords: book,2015

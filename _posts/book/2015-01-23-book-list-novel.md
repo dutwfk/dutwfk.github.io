@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: post
 title: 阅读书单-小说
 category: 读书
 keywords: 阅读,书单,小说
