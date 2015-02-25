@@ -1,6 +1,6 @@
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
-pygments: true
+highlighter: true
 
 kramdown:
   input: GFM
@@ -18,7 +18,7 @@ description: Kris的博客
 url: http://dutwfk.github.io
 rss_url: /pages/rss.xml
 
-# gavatar头像及Favicon
+# avatar头像及Favicon
 avatar: http://7u2n3n.com1.z0.glb.clouddn.com/avatar-walk.jpg?imageView2/1/w/100/h/100
 favicon: http://b-avatar.qiniudn.com/favicon.ico
 
