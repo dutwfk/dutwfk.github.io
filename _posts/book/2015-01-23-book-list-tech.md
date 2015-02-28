@@ -9,9 +9,10 @@ category: 读书
 - 高性能MySQL
 
 ---
+
 ### 在读
 - [Redis设计与实现](http://book.douban.com/subject/25900156/)
-- [MongoDB权威指南](http://book.douban.com/subject/25960887/) 
+- [MongoDB权威指南](http://book.douban.com/subject/25960887/)
 - [决战Nginx-系统卷](http://book.douban.com/subject/10746087/)
 - [编写高质量代码-改善Python程序的91个建议](http://book.douban.com/subject/25910544/)
 - [大教堂与集市](http://book.douban.com/subject/25881855/)
