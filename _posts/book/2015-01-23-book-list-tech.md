@@ -1,8 +1,16 @@
 ---
 layout: post
-阅读书单-技术
+title: 阅读书单-技术
 category: 读书
 ---
+
+### 购书单
+- 代码大全2
+- 高性能MySQL
+
+---
+### 在读
+- [Redis设计与实现](http://book.douban.com/subject/25900156/)
 - [MongoDB权威指南](http://book.douban.com/subject/25960887/) 
 - [决战Nginx-系统卷](http://book.douban.com/subject/10746087/)
 - [编写高质量代码-改善Python程序的91个建议](http://book.douban.com/subject/25910544/)
@@ -21,3 +29,7 @@ category: 读书
 - [深入浅出Python : 深入浅出Python(影印版) ](http://book.douban.com/subject/6892016/)
 - [重构](http://book.douban.com/subject/4262627/)
 
+---
+
+### 已读
+---
