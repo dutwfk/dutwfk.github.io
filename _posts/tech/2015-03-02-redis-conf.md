@@ -4,7 +4,7 @@ title: Redis 配置文件解析
 category: 技术
 ---
 
-‘’‘
+```
 # Redis configuration file example
 
 # Note on units: when memory size is needed, it is possible to specify
@@ -790,4 +790,4 @@ hz 10
 # big latency spikes.
 aof-rewrite-incremental-fsync yes
 
-’‘’‘
+```
