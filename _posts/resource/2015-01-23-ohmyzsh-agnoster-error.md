@@ -1,7 +1,7 @@
 ---
 layout: post
 title: oh-my-zsh agnoster主题 特殊字符显示异常
-category: 工具
+category: 整理
 tags:  [oh-my-zsh,agnoster,config]
 keywords: oh-my-zsh,agnoster,特殊字符显示异常
 

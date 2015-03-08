@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redis 配置文件解析
-category: 技术
+category: 整理
 ---
 
 ```

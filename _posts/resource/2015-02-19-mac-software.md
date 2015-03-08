@@ -1,7 +1,7 @@
 ---
 layout: post                                   
 title: Mac 装机软件      
-category: 工具                                  
+category: 整理                                  
 tags: tool                                   
 keywords: mac                        
 description: 

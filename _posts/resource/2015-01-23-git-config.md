@@ -1,7 +1,7 @@
 ---
 layout: post
 title: .gitconfig
-category: 工具
+category: 整理
 tags: config 
 keyword: git,配置
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:    系统小技巧
-category: 工具
+title: Mac系统小技巧
+category: 整理
 tags: config 
 keyword: git,配置
 ---
