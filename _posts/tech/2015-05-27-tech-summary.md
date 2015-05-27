@@ -2,7 +2,8 @@
 layout: post                                  
 title: Summary (包含文档、博客和git_repo)
 category: 技术                                  
-tags: [python,]                                   
+tags: [python,]    
+                               
 ---
 
 ## Python & Web Framwork
@@ -10,6 +11,7 @@ tags: [python,]
 
 * Python中文学习大本营：[http://www.pythondoc.com/](http://www.pythondoc.com/)
 * Python技术文章的收集，翻译的Git源的doc：[http://pyzh.readthedocs.org/en/latest/index.html](http://pyzh.readthedocs.org/en/latest/index.html)
+* IBM Python 技术专题：[https://www.ibm.com/developerworks/cn/linux/theme/python/](https://www.ibm.com/developerworks/cn/linux/theme/python/)
 
 
 ### Django
