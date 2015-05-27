@@ -10,6 +10,8 @@ tags: [python,]
 
 * Python中文学习大本营：[http://www.pythondoc.com/](http://www.pythondoc.com/)
 * Python技术文章的收集，翻译的Git源的doc：[http://pyzh.readthedocs.org/en/latest/index.html](http://pyzh.readthedocs.org/en/latest/index.html)
+
+
 ### Django
 * Django 1.8 官方文档：[https://docs.djangoproject.com/en/1.8/](https://docs.djangoproject.com/en/1.8/)
 
@@ -30,7 +32,11 @@ tags: [python,]
 * 译者的blog：[http://www.pythoner.com/](http://www.pythoner.com/)
 
 ## Database Tech
+
 > 主攻Mysql，副修Redis，MongoDB结合场景掌握
+
+
+
 ### Mysql
 
 ### MongoDB
