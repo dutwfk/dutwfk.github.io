@@ -1,17 +1,18 @@
 ---
 layout: post                                  
-title: Summary (包含文档、博客和git_repo)
+title: 技术搜寻Summary (包含文档、博客和git_repo)
 category: 技术                                  
 tags: [python,]    
                                
 ---
-
 ## Python & Web Framwork
 > 框架没有优劣之分，最重要的时明白自己的需求
 
 * Python中文学习大本营：[http://www.pythondoc.com/](http://www.pythondoc.com/)
 * Python技术文章的收集，翻译的Git源的doc：[http://pyzh.readthedocs.org/en/latest/index.html](http://pyzh.readthedocs.org/en/latest/index.html)
 * IBM Python 技术专题：[https://www.ibm.com/developerworks/cn/linux/theme/python/](https://www.ibm.com/developerworks/cn/linux/theme/python/)
+* 知乎Python版：[http://www.zhihu.com/topic/19552832/top-answers](http://www.zhihu.com/topic/19552832/top-answers)
+* 知道创宇研发技能表 V2.2：[http://rd.readthedocs.org/zh_CN/latest/](http://rd.readthedocs.org/zh_CN/latest/)
 
 
 ### Django
