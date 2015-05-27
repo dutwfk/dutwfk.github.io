@@ -8,6 +8,7 @@ tags: [python,]
 ## Python & Web Framwork
 > 框架没有优劣之分，最重要的时明白自己的需求
 
+* Awesome Python[Git]：[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
 * Python中文学习大本营：[http://www.pythondoc.com/](http://www.pythondoc.com/)
 * Python技术文章的收集，翻译的Git源的doc：[http://pyzh.readthedocs.org/en/latest/index.html](http://pyzh.readthedocs.org/en/latest/index.html)
 * IBM Python 技术专题：[https://www.ibm.com/developerworks/cn/linux/theme/python/](https://www.ibm.com/developerworks/cn/linux/theme/python/)
