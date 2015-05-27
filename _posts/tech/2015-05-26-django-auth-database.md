@@ -1,4 +1,11 @@
-### DjangoAuth库表结构
+---
+layout: post                                  
+title: python-Flask  RESTful Authentication with Flask
+category: 技术                                  
+tags: [python,Flask]                                   
+---
+
+## DjangoAuth库表结构
 
 #### 表
 

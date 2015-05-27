@@ -1,3 +1,10 @@
+---
+layout: post                                  
+title: 技术文档整理(包含文档、博客和git_repo) 持续整理······
+category: 技术                                  
+tags: [python,]                                   
+---
+
 ## Python Web Framwork
 ### Django
 * Django 1.8 官方文档：[https://docs.djangoproject.com/en/1.8/](https://docs.djangoproject.com/en/1.8/)
