@@ -1,6 +1,6 @@
 ---
 layout: post                                  
-title: Summary (包含文档、博客和git_repo) 持续整理···
+title: Summary (包含文档、博客和git_repo)
 category: 技术                                  
 tags: [python,]                                   
 ---
@@ -12,6 +12,7 @@ tags: [python,]
 ### Flask
 * 官方文档[en]：[http://flask.pocoo.org/](http://flask.pocoo.org/)
 * 官方文档：[http://docs.jinkan.org/docs/flask/](http://docs.jinkan.org/docs/flask/)
+* Flask之旅：[http://spacewander.github.io/explore-flask-zh/index.html](http://spacewander.github.io/explore-flask-zh/index.html)
 * jinja2 官方文档[en]：[http://jinja.pocoo.org/docs/dev/](http://jinja.pocoo.org/docs/dev/)
 * Werkzeug 官方文档[en]：[http://werkzeug.pocoo.org/docs/0.10/](http://werkzeug.pocoo.org/docs/0.10/)
 

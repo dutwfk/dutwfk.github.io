@@ -1,6 +1,6 @@
 ---
 layout: post                                  
-title: python-Flask  RESTful Authentication with Flask
+title: RESTful Authentication with Flask
 category: 技术                                  
 tags: [python,Flask]                                   
 ---

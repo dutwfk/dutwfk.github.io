@@ -1,6 +1,6 @@
 ---
 layout: post                                  
-title: python-Flask  RESTful Authentication with Flask
+title: Django-Admin用户系统数据库表结构
 category: 技术                                  
 tags: [python,Flask]                                   
 ---
