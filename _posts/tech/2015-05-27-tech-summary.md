@@ -28,6 +28,7 @@ tags: [python,]
 * Werkzeug 官方文档[en]：[http://werkzeug.pocoo.org/docs/0.10/](http://werkzeug.pocoo.org/docs/0.10/)
 * segmentfault上Flask版块：[http://segmentfault.com/t/flask/blogs](http://segmentfault.com/t/flask/blogs)
 * Flask博客：[http://flaskblog.me/](http://flaskblog.me/)
+* 知乎Flask专版：[http://www.zhihu.com/topic/19590215/top-answers](http://www.zhihu.com/topic/19590215/top-answers)
 
 ### Tornado
 * 官方文档：[http://www.tornadoweb.org/en/stable/](http://www.tornadoweb.org/en/stable/)
