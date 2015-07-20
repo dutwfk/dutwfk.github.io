@@ -1,32 +1,72 @@
-permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-highlighter: true
+title:            Kris's Blog
+description:      Kris is a ranger.
+disqus_shortname: dutwfk
+reading_time:     true
+words_per_minute: 200
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:
+
+# Owner/author information
+owner:
+  name:           Kris Wang
+  avatar:         avatar.png
+  bio:            "梦想是一场华美的旅途，每个人在找到它之前，都只是孤独的少年"
+  email:          kris.wa@qq.com
+  # Social networking links used in footer. Update and remove as you like.
+  weibo:          5512322539
+  twitter:        
+  facebook:       wangfangkui
+  github:         dutwfk
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:   
+
+# Background image to be tiled on all pages
+background: 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Shanghai
+future:      true
+highlighter: pygments
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
 
 kramdown:
-  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
 
-# 作者信息
-author:
-  name: Kris
-  email: dutwfk@gmail.com
-  weibo: http://weibo.com/u/3706884097
-  github: http://github.com/dutwfk
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
-# 站点信息
-title: KrisのBlog
-description: Kris的博客
-url: http://dutwfk.github.io
-rss_url: /pages/rss.xml
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
-# avatar头像及Favicon
-avatar: http://7u2n3n.com1.z0.glb.clouddn.com/avatar-rabbit.png?imageView2/1/w/200/h/200
-favicon: http://b-avatar.qiniudn.com/favicon_1.ico
 
-# google analytics 设置
-ga:
-  id: UA-58838391-1
-  url: dutwfk.github.io/
-
-# disqus 设置
-disqus:
-  shortname: dutwfk
