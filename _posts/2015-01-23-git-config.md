@@ -9,7 +9,7 @@ keyword: git,配置
 
 * 最后的用户名邮箱记得替换
 
-```
+{% highlight sh %}
 [color]
     diff = auto
     status = auto
@@ -150,6 +150,6 @@ keyword: git,配置
     autocorrect = 1
 
 [user]
-     name =
-     email =
-```
+     name = Your name
+     email = Your email
+{% endhighlight %}

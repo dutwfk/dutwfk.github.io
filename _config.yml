@@ -10,7 +10,8 @@ url:
 # Owner/author information
 owner:
   name:           Kris Wang
-  avatar:         avatar.jpg
+  avatar:         http://7u2n3n.com1.z0.glb.clouddn.com/avatar-rabbit.png?imageView2/1/w/200/h/200
+  favicon:        http://b-avatar.qiniudn.com/favicon_1.ico
   bio:            "梦想是一场华美的旅途，每个人在找到它之前，都只是孤独的少年"
   email:          kris.wa@qq.com
   # Social networking links used in footer. Update and remove as you like.
