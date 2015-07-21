@@ -10,7 +10,7 @@ keyword: git,配置
 
 - 使用Sublime_text3打开文件
 
-{% highlight sh %}
+{% highlight sh linenos %}
 ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
 subl main.py

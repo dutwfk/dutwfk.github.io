@@ -9,7 +9,7 @@ keyword: git,配置
 
 * 最后的用户名邮箱记得替换
 
-{% highlight sh %}
+{% highlight sh linenos %}
 [color]
     diff = auto
     status = auto
