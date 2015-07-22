@@ -11,7 +11,7 @@ keywords: oh-my-zsh,agnoster,特殊字符显示异常
 
 2.修改分支
 
-{% highlight sh linenos %}
+{% highlight sh %}
 cd ~/.oh-my-zsh/themes
 git checkout d6a36b1 agnoster.zsh-theme
 {% endhighlight %}
