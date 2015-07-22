@@ -1,8 +1,7 @@
 ---
----
 layout: page
 title: BLOG TIMELINE
-description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
+description: "Record this blog's timeline."
 image:
   feature: abstract-11.jpg
 share: true
