@@ -1,7 +1,7 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: BLOG TIMELINE
+  url: /blog-timeline/
 
-- title: Another Blog
-  url: http://dutwfk.github.io/
+- title: leetcode
+  url: https://leetcode.com/problemset/algorithms/

@@ -3,6 +3,7 @@ description:      Kris is a ranger.
 disqus_shortname: dutwfk
 reading_time:     true
 words_per_minute: 200
+excerpt_separator: "\n\n\n"
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:
