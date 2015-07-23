@@ -1,10 +1,10 @@
 # Menu navigation links
 
-- title: Blog TimeLine&nbsp;&nbsp;<i class="fa fa-code-fork"></i>
+- title: <i class="fa fa-fw fa-code-fork"></i> Blog TimeLine
   url: /blog-timeline/
 
 - title: Bug List
   url: /bugs/
 
-- title: Leetcode&nbsp;&nbsp;<i class="fa fa-link"></i>
+- title: <i class="fa fa-fw fa-link"></i> Leetcode
   url: https://leetcode.com/problemset/algorithms/
