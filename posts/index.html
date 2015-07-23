@@ -15,12 +15,12 @@ comments: false
       <ul>
     {% endif %}
         <li class="entry-title">
-        <span>
-          <time datetime="{{ post.date | date_to_xmlschema }}">
-            {{ post.date | date: "%m-%d" }}&nbsp;&nbsp;<i class="fa fa-fw fa-angle-double-right"></i>
-          </time>
-          </span>&nbsp;&nbsp;
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li><br>
+          <span><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d" }}&nbsp;&nbsp;<i class="fa fa-fw fa-angle-double-right"></i></time></span>&nbsp;&nbsp;
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+          {% if post.has_image %}
+            &nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-fw fa-picture-o"></i>
+          {% endif %}
+        </li><br>
 
     {% if forloop.last %}
       </ul>
