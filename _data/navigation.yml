@@ -3,7 +3,7 @@
 - title: <i class="fa fa-fw fa-code-fork"></i> Blog TimeLine
   url: /blog-timeline/
 
-- title: <i class="fa fa-fw fa-list"></i> Bug List
+- title: <i class="fa fa-fw fa-list-ul"></i> Bug List
   url: /bugs/
 
 - title: <i class="fa fa-fw fa-link"></i> Leetcode
