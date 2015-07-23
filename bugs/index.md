@@ -1,12 +1,10 @@
 ---
 layout: page
-title: bug_list
+title: bug list
 image:
   feature: abstract-2.jpg
 modified: 2015-07-22
 ---
-
-bug_list
 
 > pkg_resources.DistributionNotFound: ndg-httpsclient
 
@@ -27,3 +25,5 @@ bug_list
 - http://stackoverflow.com/questions/4559699/python-mysqldb-and-library-not-loaded-libmysqlclient-16-dylib
 
 	export DYLD_LIBRARY_PATH=/usr/local/mysql/lib/
+
+-----		
