@@ -3,5 +3,8 @@
 - title: BLOG TIMELINE
   url: /blog-timeline/
 
+- title: BUG
+  url: /bugs/
+
 - title: leetcode
   url: https://leetcode.com/problemset/algorithms/
