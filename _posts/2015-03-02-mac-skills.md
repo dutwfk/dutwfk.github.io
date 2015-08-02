@@ -17,3 +17,9 @@ subl main.py
 {% endhighlight %}
 
 - 设置翻墙
+
+- 修改HostName
+	－ 系统偏好设置 –> 共享 –> 电脑名称，在后面的输入框输入想要的名称即可。
+
+
+
