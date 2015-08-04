@@ -5,8 +5,8 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-# url:                  http://xrange.org
-url:                  http://127.0.0.1:4000
+url:                  http://xrange.org
+# url:                  http://127.0.0.1:4000
 img_url:              http://7u2n3n.com1.z0.glb.clouddn.com/
 
 # Owner/author information
