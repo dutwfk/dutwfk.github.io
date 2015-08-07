@@ -59,7 +59,17 @@
 	        {% else %}
 	        {% assign domain = site.url %}
 	    {% endif %}
-	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-	  {% endfor %}
+	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
+	    </li>
+	    {% endfor %}
+	  	<li>
+			<a href="#"><i class="fa fa-fw fa-users"></i> Friend's Blog</a>
+			<ul class="dl-submenu">
+				<li><a href="http://alvie.net/">alvie.net</a></li>
+				<li><a href="http://www.zhihong.me/">zhihong.me</a></li>
+				<li><a href="http://igingko.me/">igingko.me</a></li>
+			</ul>
+		</li>
+
 	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
