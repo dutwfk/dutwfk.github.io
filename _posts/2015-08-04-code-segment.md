@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Segment
-category: 技术
+category: code
 tags: code
 ---
 
