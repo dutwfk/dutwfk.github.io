@@ -33,6 +33,16 @@ image:
     {% else %}
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?e6882f9c2d48ed0e3d5ab4ee3657dbde";
+            var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
   </header>
   <div class="entry-content">
     {{ post.excerpt }}
