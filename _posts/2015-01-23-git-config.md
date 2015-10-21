@@ -1,6 +1,6 @@
 ---
 layout: post
-title: .gitconfig
+title: Git配置 .gitconfig文件
 category: 整理
 tags: config 
 keyword: git,配置
