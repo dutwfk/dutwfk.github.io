@@ -9,8 +9,8 @@ body {
 // Headings
 // --------------------------------------------------
 h1, h2, h3, h4, h5, h6 {
-	font-family:  normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, sans-serif;
-	    font-size: 1rem;
+	font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, sans-serif;
+	font-size: 1rem;
 }
 h1 {
 	@include font-rem(28);
@@ -70,8 +70,7 @@ figcaption {
 // Blockquotes
 // --------------------------------------------------
 blockquote {
-	font-family: $alt-font;
-	font-style: italic;
+	font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, sans-serif;
 	border-left: 8px solid $border-color;
 	padding-left: 20px;
 	@media #{$medium} {
@@ -96,7 +95,7 @@ blockquote {
 // Code
 // --------------------------------------------------
 tt, code, kbd, samp, pre {
-	font-family: $code-font;
+    font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, sans-serif;
 }
 p {
     line-height: 1.75em;
