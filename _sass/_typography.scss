@@ -10,7 +10,6 @@ body {
 // --------------------------------------------------
 h1, h2, h3, h4, h5, h6 {
 	font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, sans-serif;
-	font-size: 1rem;
 }
 h1 {
 	@include font-rem(28);
