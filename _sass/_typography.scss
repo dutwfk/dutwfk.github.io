@@ -98,7 +98,15 @@ blockquote {
 tt, code, kbd, samp, pre {
 	font-family: $code-font;
 }
-p,
+p {
+    line-height: 1.45em;
+    margin: .7em 0 0 0;
+    font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, sans-serif;
+    font-size: 14px;
+    font-size: 1rem;
+    color: #202020;
+    -webkit-font-smoothing: antialiased;
+}
 li { 
 	code {
 		@include font-rem(12);
