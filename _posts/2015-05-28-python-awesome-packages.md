@@ -5,7 +5,7 @@ category: 技术
 tags: [python,packages]    
                                
 ---
-## python依赖包
+
 > 关键字：pip、virtualenv、xx/lib/python2.7/site-packages/
 
 目前常见的一些自动化安装工具，比如pip，easy_install，distribute等，自动帮你下载源码，并安装。
