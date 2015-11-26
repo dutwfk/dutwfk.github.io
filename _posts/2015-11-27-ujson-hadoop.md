@@ -66,6 +66,8 @@ class ContactsMR(MRJob):
 #### MRJob
 mrjob是一个开放源码的Python框架，封装Hadoop的数据流，并积极开发Yelp的。由于Yelp的运作完全在亚马逊网络服务，mrjob的整合与EMR是令人难以置信的光滑和容易（使用 boto包）。
 
+一些其他的框架参考： [Hadoop的Python框架指南](http://www.oschina.net/translate/a-guide-to-python-frameworks-for-hadoop)
+
 mrjob提供了一个Python的API与Hadoop的数据流，并允许用户使用任何对象作为键和映射器。默认情况下，这些对象被序列化为JSON对象的内部，但也有支持pickle的对象。有没有其他的二进制I / O格式的开箱即用，但有一个机制来实现自定义序列化。
 
 自定义序列化就用到了下面的ujson...
