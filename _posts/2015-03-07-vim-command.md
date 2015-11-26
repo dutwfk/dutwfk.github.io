@@ -4,8 +4,6 @@ title: Vim 常用命令
 category: 整理
 ---
 
-
-
 ### 翻页命令
 - Ctrl + B (Backward)：向上翻一页，Ctrl + F (Forward)：向下翻一页
 - Ctrl + D (Down)：向下滚半屏，Ctrl + U (Up)：向上滚半屏

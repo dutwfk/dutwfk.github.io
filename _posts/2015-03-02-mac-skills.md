@@ -6,8 +6,6 @@ tags: config
 keyword: git,配置
 ---
 
-## Mac
-
 - 使用Sublime_text3打开文件
 
 {% highlight sh %}

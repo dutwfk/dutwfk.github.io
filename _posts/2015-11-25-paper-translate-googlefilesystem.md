@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 【译】Google文件系统
+title: 【转译】Google文件系统
 category: MachineLearning
 tags: 论文，GFS
 ---
-
-### Google文件系统 
 
 > GFS是一个可扩展的分布式文件系统，用于大型的、分布式的、对大量数据进行访问的应用。它运行于廉价的普通硬件上，但可以提供容错功能。它可以给大量的用户提供总体性能较高的服务。 
 
